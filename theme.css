@@ -1,15 +1,15 @@
 header {
-  background-color: #333;
+  background-color: DarkSeaGreen;
   color: #fff;
   padding: 20px;
   text-align: center;
 }
 
 body {
-	background-color: ForestGreen;
+	background-color: HoneyDew;
 }
 
 header h1 {
-  font-size: 36px;
+  font-size: 42px;
   margin: 0;
 }
