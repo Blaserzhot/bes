@@ -5,6 +5,10 @@ header {
   text-align: center;
 }
 
+body {
+	background-color: ForestGreen;
+}
+
 header h1 {
   font-size: 36px;
   margin: 0;
