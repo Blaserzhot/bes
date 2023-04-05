@@ -3,10 +3,12 @@ header {
   color: #fff;
   padding: 20px;
   text-align: center;
+  font: normal Lucida Console, Monospace;
 }
 
 body {
 	background-color: HoneyDew;
+	font: normal 10px Lucida Console, Monospace;
 }
 
 header h1 {
