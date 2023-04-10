@@ -10,11 +10,6 @@ header {
   opacity: 0.8;
 }
 
-u1 {
-	display: inline;
-	float: left;
-}
-
 .active {
 	background-color: #B3EEC3;
 
