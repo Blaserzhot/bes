@@ -4,11 +4,18 @@ header {
   padding: 20px;
   text-align: center;
   font: normal Lucida Console, Monospace;
+  width: 100%;
+  position: fixed;
+  top: 0%;
 }
 
 u1 {
 	display: inline;
+	float: left;
 }
+
+.active {
+	background-color: #B3EEC3;
 
 body {
 	background-color: HoneyDew;
