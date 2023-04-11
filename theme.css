@@ -19,12 +19,13 @@ li {
 	text-decoration: none;
 	list-style-type: none;
 	display: inline;
+	padding: 20px;
 
 }
 
 
 body {
-	background-color: HoneyDew;
+background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
 	position: relative;
 }
