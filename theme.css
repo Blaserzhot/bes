@@ -6,14 +6,12 @@ header {
   text-align: center;
   font: normal Lucida Console, Monospace;
   width: 100%;
-  top: 0%;
-  opacity: 0.8;
   position: fixed;
   flex-direction: column;
 }
 
 
-nav {
+header nav {
 	float: left;
 	display: block;
 	color: DarkSeaGreen;
