@@ -11,7 +11,7 @@ header {
 }
 
 
-header nav {
+li {
 	float: left;
 	display: block;
 	color: DarkSeaGreen;
