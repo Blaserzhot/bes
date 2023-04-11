@@ -1,13 +1,15 @@
 header {
   background-color: DarkSeaGreen;
   color: #fff;
-  padding: 10px;
+  display: flex;
+  padding: 0 16px;
   text-align: center;
   font: normal Lucida Console, Monospace;
   width: 100%;
-  position: fixed;
   top: 0%;
   opacity: 0.8;
+  position: fixed;
+  flex-direction: column;
 }
 
 .active {
@@ -16,6 +18,9 @@ header {
 body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
+	position: relative;
+	padding: 0;
+	margin: 0;
 }
 
 header h1 {
