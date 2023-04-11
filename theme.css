@@ -12,6 +12,15 @@ header {
   flex-direction: column;
 }
 
+
+nav {
+	float: left;
+	display: block;
+	color: DarkSeaGreen;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+	
 .active {
 	background-color: #B3EEC3;
 
@@ -19,8 +28,9 @@ body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
 	position: relative;
-	padding: 0;
+	padding: 0px 16px;
 	margin: 0;
+	
 }
 
 header h1 {
