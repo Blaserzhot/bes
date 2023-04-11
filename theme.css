@@ -19,13 +19,13 @@ li {
 	text-decoration: none;
 	list-style-type: none;
 	display: inline;
-	padding: 20px;
+	padding: 10px;
 
 }
 
 
 body {
-background-color: HoneyDew;
+	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
 	position: relative;
 }
@@ -36,5 +36,5 @@ header h1 {
 }
 
 main {
-	padding: 20px;
+	padding: 40px;
 }
