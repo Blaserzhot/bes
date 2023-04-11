@@ -27,7 +27,6 @@ li {
 body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
-	position: relative;
 }
 
 header h1 {
@@ -36,5 +35,5 @@ header h1 {
 }
 
 main {
-	margin-top: 50;
+	margin-top: 50px;
 }
