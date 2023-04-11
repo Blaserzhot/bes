@@ -2,7 +2,7 @@ header {
   background-color: DarkSeaGreen;
   color: #fff;
   padding: 20px;
-  text-align: center;
+  text-align: right;
   font: normal Lucida Console, Monospace;
   display: flex;
   position: fixed;
@@ -16,7 +16,6 @@ li {
 	display: block;
 	color: DarkSeaGreen;
 	text-align: center;
-	padding: 14px 20px;
 	text-decoration: none;
 	list-style-type: none;
 	display: inline;
@@ -28,7 +27,7 @@ body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
 	position: relative;
-	
+	padding: 20px
 }
 
 header h1 {
