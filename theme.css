@@ -27,10 +27,13 @@ body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
 	position: relative;
-	padding: 20px
 }
 
 header h1 {
   font-size: 42px;
   margin: 0;
+}
+
+main {
+	padding: 20px;
 }
