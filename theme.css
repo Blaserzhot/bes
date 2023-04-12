@@ -3,40 +3,34 @@ header {
   color: #fff;
   font: normal Lucida Console, Monospace;
   position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 10;
-  
 }
-
-h1 {
-	text-align: right;
-}
-
-	
 
 
 li {
 	float: left;
 	display: block;
 	color: DarkSeaGreen;
-	text-align: center;
-	text-decoration: none;
+	text-align: left;
 	list-style-type: none;
 	display: inline;
 	padding: 10px;
-
 }
 
 
 body {
 	background-color: HoneyDew;
 	font: normal 10px Lucida Console, Monospace;
+	margin: 0px;
+	padding: 0px;
 }
 
-header h1 {
+h1 {
   font-size: 42px;
   margin: 0;
+  text-align: right
+}
+
+active {
+	color: HoneyDew;
 }
 
