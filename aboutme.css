@@ -1,0 +1,17 @@
+main p{
+  color: white;
+  padding-right: 20px;
+}
+
+#biocolumn {
+  float: right;
+  width: 35%;
+  background-color: DarkSeaGreen;
+  padding-left: 25px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  padding-right: 80px;
+}
