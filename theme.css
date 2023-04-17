@@ -1,7 +1,9 @@
 header {
 	background-color: DarkSeaGreen;
 	position: fixed;
-	width: 100%;
+	top: 0;
+  left: 0;
+  right: 0;
 	padding: 20px;
 	height: 50px;
 	display: block;
@@ -9,7 +11,7 @@ header {
 
 
 nav {
-	padding-right: 0px;
+  padding-right: 0px;
 	margin-bottom: 0px;
 	list-style: none;
 	float: left;
@@ -18,23 +20,24 @@ nav {
 nav li {
 	
 	color: DarkSeaGreen;
-	font-size: 15px;
+	font-size: 20px;
 	position: relative;
 	display: inline-block;
 	list-style-type: none;
-	padding: 5px;
+  padding-right: 35px;
+ 
 
 }
 
 
 body {
 	background-color: HoneyDew;
-	font: normal 10px Lucida Console, Monospace;
+	font-family: 'Montserrat', sans-serif;
 }
 
 header h1 {
 	font-size: 38px;
-	font: normal Lucida Console, Monospace;
+	font-family: 'Montserrat', sans-serif;
 	margin: 0px;
 	float: right;
 	display: inline-block;
@@ -54,7 +57,7 @@ a {
 }
 
 a:hover {
-	color: black;
+	color: blanchedalmond;
 }
 
 
