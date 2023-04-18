@@ -18,15 +18,12 @@ nav {
 }
 
 nav li {
-	
 	color: DarkSeaGreen;
 	font-size: 20px;
 	position: relative;
 	display: inline-block;
 	list-style-type: none;
   padding-right: 35px;
- 
-
 }
 
 
@@ -46,9 +43,7 @@ header h1 {
 }
 
 main {
-
-	padding-top: 100px;
-
+	padding-top: 82px;
 }
 
 a {
