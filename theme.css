@@ -18,12 +18,15 @@ nav {
 }
 
 nav li {
+	
 	color: DarkSeaGreen;
 	font-size: 20px;
 	position: relative;
 	display: inline-block;
 	list-style-type: none;
   padding-right: 35px;
+ 
+
 }
 
 
@@ -39,7 +42,6 @@ header h1 {
 	float: right;
 	display: inline-block;
 	color: white;
-
 }
 
 main {
@@ -61,7 +63,7 @@ footer {
   background: DarkSeaGreen;
   margin-top: 20px;
   color: white;
+  position: absolute;
+  bottom: 0px;
 }
-
-
 
