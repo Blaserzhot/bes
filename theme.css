@@ -60,5 +60,13 @@ a:hover {
 	color: blanchedalmond;
 }
 
+footer {
+  padding: 20px;
+  text-align: center;
+  background: DarkSeaGreen;
+  margin-top: 20px;
+  color: white;
+}
+
 
 
