@@ -7,10 +7,9 @@ main p{
 #biocolumn {
   float: right;
   width: 35%;
-  background-color: SeaGreen;
+  color: #587162;
   padding-left: 25px;
   text-align: center;
-  
 }
 
 h2 {
