@@ -1,5 +1,5 @@
 header {
-	background-color: DarkSeaGreen;
+	background-color: #587162;
 	position: fixed;
 	top: 0;
   left: 0;
@@ -60,9 +60,12 @@ a:hover {
 footer {
   padding: 20px;
   text-align: center;
-  background: DarkSeaGreen;
+  background: #587162;
   margin-top: 20px;
   color: white;
+  position: absolute;
   bottom: 0px;
 }
+
+
 
