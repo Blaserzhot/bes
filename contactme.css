@@ -1,0 +1,60 @@
+#heading {
+  background-color: #587162;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  left: 0px;
+  right: 0px;
+}
+
+#head {
+	background-color: #8BBB9E;
+	color: white;
+  text-align: center;
+  padding: 20px;
+  left: 0px;
+  right: 0px;
+}
+
+#column {
+  margin: auto;
+  width: 50%;
+  padding: 50px;
+  
+}
+
+#column h2 {
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=email], select, emailarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: SeaGreen;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: DarkSeaGreen;
+}
