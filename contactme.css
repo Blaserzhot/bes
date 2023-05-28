@@ -1,0 +1,32 @@
+#head {
+  background-color: #8BBB9E;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  left: 0px;
+  right: 0px;
+}
+
+#head h2 {
+	font-size: 35px;
+}
+#head h3 {
+	font-size: 20px;
+	font-weight: normal;
+}
+
+#Icons {
+	float: center;
+	padding: 50px;
+	margin: 100px auto auto 50px;
+}
+
+#Icons a {
+	padding: 50px;
+	color: #587162;
+}
+
+#Icons i {
+	padding: 25px;
+	color: #587162;
+}

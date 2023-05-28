@@ -1,0 +1,92 @@
+#title {
+  text-align: center;
+  background-color: #8BBB9E;
+  padding: 20px;
+  color: white;
+}
+
+#title h2{
+  font-size: 60px;
+}
+
+#Object h2 {
+	width: 1300px;
+	height: 60px;
+	left: 70px;
+	top: 978px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 50px;
+	line-height: 45px;
+	text-align: center;
+	color: #587162;
+	margin: auto;
+	padding-top: 50px;
+	display: block;
+}
+
+#Object p {
+	width: 1300px;
+	height: 60px;
+	left: 70px;
+	top: 978px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 45px;
+	text-align: center;
+	color: #587162;
+	margin: auto;
+	display: block;
+	padding-bottom: 100px;
+}
+
+#Object img {
+	width: 100%;
+	height: auto;
+	padding: 50px;
+}
+
+#Perp {
+	background-color: #8BBB9E;
+	padding: 20px;
+}
+
+#Perp h2 {
+	width: 1300px;
+	height: 60px;
+	left: 70px;
+	top: 978px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 50px;
+	line-height: 45px;
+	text-align: center;
+	color: white;
+	margin: auto;
+	padding-top: 50px;
+	display: block;
+}
+
+#Perp p {
+	width: 1300px;
+	height: 60px;
+	left: 70px;
+	top: 978px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 45px;
+	text-align: center;
+	color: white;
+	margin: auto;
+	display: block;
+	padding-bottom: 100px;
+
+}
+
+#Perp img {
+	width: 100%;
+	height: auto;
+	padding: 50px;
+}

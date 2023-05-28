@@ -1,0 +1,57 @@
+.title {
+	background-color: #8BBB9E;
+	height: 100vh;
+}
+
+#Summ {
+	background-color: white;
+	width: 25%;
+	float: right;
+	margin-right: 60px;
+	padding: 20px;
+	margin-top: 50px;
+	border-radius: 10px;
+	box-shadow: 10px 10px #587162;
+}
+
+#Summ h2 {
+	color: #587162;
+	font-size: 48px;
+}
+
+#Summ h3 {
+	color: #587162;
+	font-size: 30px;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+.Column {
+	flex-basis: 75%;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+.Rows {
+	display: flex;
+	width: 65%;
+	margin-left: 40px;
+}
+
+div.gallery img {
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	box-shadow: 10px 10px #587162;
+	background-color: white;
+	position: relative;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
