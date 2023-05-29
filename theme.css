@@ -1,0 +1,104 @@
+html {
+	position: relative;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+main {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0;
+	padding: 0px 0 25px 0;
+	z-index: 500;
+	background-color: Honeydew;
+}
+
+#heading {
+    background-color: #587162;
+	right: 0;
+	top: 0;
+	left: 0;
+	padding: 20px;
+	height: 100px;
+	display: block;
+	z-index: 1000;
+}
+
+#heading h1 {
+	font-size: 45px;
+	margin-top: 0px;
+	display: inline-block;
+	color: white;
+	position: relative;
+	padding-top: 5px;
+	margin-top: 25px;
+	float: left;
+}
+
+
+#nav {
+	position: relative;
+	margin-top: 25px;
+	display: inline-block;
+	float: right;
+}
+
+#nav li {
+	color: white;
+	font-size: 20px;
+	position: relative;
+	list-style-type: none;
+	padding-left: 10px;
+}
+
+#heading a {
+	text-decoration: none;
+	color: white;
+}
+
+#icons {
+	display: inline-block;
+	position: relative;
+	margin-top: 25px;
+	float: right;
+}
+
+#icons i {
+	padding-left: 20px;
+	padding-top: 7px;
+}
+
+#heading .nav_button {
+	display: inline-block;
+}
+
+#heading a:hover {
+	color: blanchedalmond;
+}
+
+.sticky {
+	height: 50px;
+	position: fixed;
+	top: 0px;
+	opacity: 0.85;
+}
+
+@media screen and (max-width: 700px) {
+  nav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  nav a {
+    text-align: center;
+    float: none;
+  }
+}
+
+
+

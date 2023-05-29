@@ -1,0 +1,87 @@
+#title {
+  text-align: center;
+  background-color: #8BBB9E;
+  padding: 20px;
+  color: white;
+}
+
+#title h2{
+  font-size: 60px;
+}
+
+#Overview {
+	display: block;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 1px 1px 15px 0 rgba(0, 0, 0, 0.1);
+	background-color: MintCream;
+	width: 75%;
+	height: auto;
+	margin: 25px auto auto auto;
+}
+
+#Overview h2 {
+	width: 60%;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 45px;
+	color: #587162;
+	margin: auto;
+	padding-top: 50px;
+	text-align: center;
+}
+
+#Overview p {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 45px;
+	color: #587162;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 90%;
+	text-align: center;
+}
+
+#Problem {
+	background-color: #8BBB9E;
+	padding: 50px;
+	margin: 25px auto auto auto;
+	display: grid;
+}
+
+#head {
+	align-items: center;
+	font-style: bold;
+	font-weight: 400;
+	font-size: 50px;
+	line-height: 45px;
+	color: white;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	display: block;
+	
+}
+
+#Slides {
+	background-color: #8BBB9E;
+	padding: 20px;
+	height: auto;
+	width: auto;
+	z-index: 500px;
+	padding: 25px;
+	display: block;
+	align-items: center;
+	margin: 10px auto auto auto;
+}
+
+iframe {
+	width: 1286px;
+	height: 750px;
+	display: block;
+	margin: 0 auto;
+	
+}
