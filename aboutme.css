@@ -1,5 +1,5 @@
 #biocolumn p{
-  font-size: 23px;
+  font-size: 20px;
   color: #587162;
   text-align: left;
   padding: 20px;
@@ -8,11 +8,11 @@
 }
 
 #biocolumn h3 {
-  font-size: 30px;
+  font-size: 35px;
   color: #587162;
   text-align: left;
-  padding-left: 40px;
   width: auto;
+  padding-left: 20px;
 }
 
 #biocolumn a {
