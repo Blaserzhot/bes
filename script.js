@@ -71,6 +71,7 @@ function myFunction() {
 	document.getElementById("nav").style.marginTop = "0px";
 	document.getElementById("icons").style.transition = "all 0.5s ease";
 	document.getElementById("icons").style.marginTop = "0px";
+	document.getElementsByTagName("main")[0].style.marginTop = "90px";
   } else {
     header.style.height = "100px";
 	header.classList.remove("sticky");
@@ -81,6 +82,7 @@ function myFunction() {
 	document.getElementById("nav").style.marginTop = "25px";
 	document.getElementById("icons").style.transition = "all 0.5s ease";
 	document.getElementById("icons").style.marginTop = "25px";
+	document.getElementsByTagName("main")[0].style.marginTop = "0px";
   }
 }
 
