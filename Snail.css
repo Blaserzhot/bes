@@ -21,7 +21,7 @@
 	background-color: white; 
 	border-radius: 10px;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 	font-weight: 400;
 	font-size: 32px;
 	line-height: 40px;
@@ -31,8 +31,8 @@
 	color: #587162;
 	left: 50%;
 	width: 300px;
-	float: center;
 	margin-top: 1%;
+	padding-left: 15px;
 }
 
 #r1 {
@@ -40,7 +40,7 @@
 	background-color: white; 
 	border-radius: 10px;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 	font-weight: 400;
 	font-size: 25px;
 	line-height: 40px;
@@ -49,9 +49,9 @@
 	display: block;
 	width: 500px;
 	color: #587162;
-	float: center;
 	left: 70%;
 	margin-top: 1%;
+	padding-left: 15px;
 
 }
 
@@ -60,7 +60,7 @@
 	background-color: white; 
 	border-radius: 10px;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 	font-weight: 400;
 	font-size: 32px;
 	line-height: 40px;
@@ -72,6 +72,7 @@
 	width: 250px;
 	float: center;
 	margin-top: 1%;
+	padding-left: 15px;
 }
 
 #r2 {
@@ -79,7 +80,7 @@
 	background-color: white; 
 	border-radius: 10px;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 	font-weight: 400;
 	font-size: 25px;
 	line-height: 40px;
@@ -91,6 +92,7 @@
 	width: 520px;
 	float: center;
 	margin-top: 1%;
+	padding-left: 15px;
 }
 
 .arrow {
@@ -149,7 +151,7 @@
 	border-left: 50px solid #587162;
 	border-bottom: 25px solid transparent;
 	position: absolute;
-	top: 1525px;
+	margin-top: 300px;
 	left: 50%;
 	transform: scale(3, 3);
 }
@@ -218,7 +220,7 @@
 	color: #587162;
 	font-size: 45px;
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 125px;
 }
 
 #TextColumn p {
@@ -226,11 +228,21 @@
 	font-size: 30px;
 	padding-left: 25px;
 	padding-right: 25px;
+	margin-top: 100px;
+}
+
+#Gallery p {
+	text-align: center;
+	color: #587162;
+	font-style: bold;
+	font-size: 20px;
+	width: auto;
+	margin-left: 375px;
 }
 
 #Gallery img {
 	border-radius: 10px;
-	margin-left: 25%;
+	margin-left: 35%;
 }
 
 .row2 {
